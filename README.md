@@ -1,5 +1,3 @@
-<img width="1280" height="720" alt="WhatsApp Image 2026-03-15 at 7 48 26 PM" src="https://github.com/user-attachments/assets/def9473c-fe3a-4a29-a2ce-b0f2be0ea967" /><img width="720" height="1280" alt="WhatsApp Image 2026-03-15 at 7 41 24 PM" src="https://github.com/user-attachments/assets/6d6e600d-b873-4553-8417-8410c2ff1d0f" />-->Assistive Glove using ESP32
-
 -->Overview
 
 This project converts hand gestures into predefined messages using flex sensors and ESP32.
@@ -103,6 +101,10 @@ void loop() {
 -->Project Images
 
 <img width="1280" height="720" alt="WhatsApp Image 2026-03-15 at 7 41 24 PM (1)" src="https://github.com/user-attachments/assets/4ba10208-f263-4fb6-97b7-546786139ed7" />
+
+<img width="1280" height="720" alt="WhatsApp Image 2026-03-15 at 7 48 26 PM" src="https://github.com/user-attachments/assets/def9473c-fe3a-4a29-a2ce-b0f2be0ea967" />
+
+<img width="720" height="1280" alt="WhatsApp Image 2026-03-15 at 7 41 24 PM" src="https://github.com/user-attachments/assets/6d6e600d-b873-4553-8417-8410c2ff1d0f" />-->Assistive Glove using ESP32
 
 -->Presentation
 
